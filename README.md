@@ -8,7 +8,8 @@ This project was challenging for me but functions as I wanted it to. The applica
 
 ## Link to Live Site
 
-[Code Quiz Link]
+[Code Quiz Link]( https://mkokich.github.io/Code-Quiz/)
 
 ## Screenshot of Main Page
+
 
