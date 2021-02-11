@@ -7,3 +7,8 @@ This project allows the user to play a 3 question timed code quiz. When the star
 This project was challenging for me but functions as I wanted it to. The application can be altered even further to portray scores and loss time for incorrect answers. I look forward to building out more javascript applications and furthuring my skills.
 
 ## Link to Live Site
+
+[Code Quiz Link]
+
+## Screenshot of Main Page
+
