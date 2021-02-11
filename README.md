@@ -12,3 +12,4 @@ This project was challenging for me but functions as I wanted it to. The applica
 
 ## Screenshot of Main Page
 
+![Code Quiz Screenshot](https://user-images.githubusercontent.com/75143471/107662497-5beb4800-6c58-11eb-99ca-b2af8f863291.png)
